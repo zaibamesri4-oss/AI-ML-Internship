@@ -22,11 +22,11 @@ This repository contains my daily learning progress from the Codomax Digital Sol
 - Imported NumPy
 - Created NumPy arrays
 - Performed array indexing and slicing
-- Applied mathematical operations on arrays## Day 4 – Pandas
+- Applied mathematical operations on arrays   ## Day 4 – Pandas
 
 - Imported Pandas
 - Created DataFrames
 - Loaded and explored the student dataset
 - Viewed rows using `head()`
 - Viewed columns and dataset information using `info()`
-- Analyzed the dataset using `describe()`                                  
+- Analyzed the dataset using `describe()`                               
