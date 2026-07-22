@@ -29,4 +29,24 @@ This repository contains my daily learning progress from the Codomax Digital Sol
 - Loaded and explored the student dataset
 - Viewed rows using `head()`
 - Viewed columns and dataset information using `info()`
-- Analyzed the dataset using `describe()`                               
+- Analyzed the dataset using `describe()` # AI & ML Internship - Day 5
+
+## Topic
+Data Cleaning using Python and Pandas
+
+## Objectives
+- Import the Pandas library
+- Load a dataset
+- Check for missing values
+- Remove missing values
+- Identify duplicate records
+- Remove duplicate records
+- Explore dataset statistics
+- Save the cleaned dataset
+
+## Technologies Used
+- Python
+- Pandas
+
+## Learning Outcome
+Learned how to clean and prepare datasets for data analysis and machine learning by handling missing values, removing duplicates, and exploring statistical information.                              
