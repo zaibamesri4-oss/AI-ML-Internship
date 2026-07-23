@@ -49,4 +49,23 @@ Data Cleaning using Python and Pandas
 - Pandas
 
 ## Learning Outcome
-Learned how to clean and prepare datasets for data analysis and machine learning by handling missing values, removing duplicates, and exploring statistical information.                              
+Learned how to clean and prepare datasets for data analysis and machine learning by handling missing values, removing duplicates, and exploring statistical information.   Day 6 – Data Visualization with Python
+
+Overview
+
+Completed Day 6 of the internship by learning the basics of Data Visualization using Python and Matplotlib.
+
+Topics Covered
+
+- Line Chart
+- Bar Chart
+- Pie Chart
+- Histogram
+- Scatter Plot
+- Chart Customization (Title, Labels, Legend, Grid)
+
+Outcome
+
+Learned how to create different types of charts to visualize data effectively and improve data analysis skills.
+
+#Python #Matplotlib #DataVisualization #Internship #Day6                           
