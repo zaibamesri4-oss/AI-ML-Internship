@@ -68,4 +68,18 @@ Outcome
 
 Learned how to create different types of charts to visualize data effectively and improve data analysis skills.
 
-#Python #Matplotlib #DataVisualization #Internship #Day6                           
+#Python #Matplotlib #DataVisualization #Internship #Day6 Day 7 - Introduction to Machine Learning
+
+Successfully completed.                      Day 7 tasks of the Codomax Digital Solutions AI/ML Internship.
+
+Topics Covered:
+• Introduction to Machine Learning
+• Data Preprocessing
+• Train-Test Split
+• Linear Regression Model
+• Model Prediction and Evaluation
+• Scikit-learn Basics
+
+Gaining hands-on experience in building simple machine learning models and understanding the complete ML workflow.
+
+#Codomax #AIML #Python #MachineLearning #ScikitLearn #LinearRegression #GitHub #Internship                          
