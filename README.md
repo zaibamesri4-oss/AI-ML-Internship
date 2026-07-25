@@ -82,4 +82,17 @@ Topics Covered:
 
 Gaining hands-on experience in building simple machine learning models and understanding the complete ML workflow.
 
-#Codomax #AIML #Python #MachineLearning #ScikitLearn #LinearRegression #GitHub #Internship                          
+#Codomax #AIML #Python #MachineLearning #ScikitLearn #LinearRegression #GitHub #Internship                                        Day 8 - Build the Model
+
+Successfully completed Day 8 of the Codomax Digital Solutions AI/ML Internship.
+
+Topics Covered:
+• Linear Regression
+• Model Creation
+• Model Training
+• Scikit-learn
+• Machine Learning Workflow
+
+Built and trained a Linear Regression model using a sample dataset, gaining practical experience in machine learning model development.
+
+#Codomax #AIML #Python #MachineLearning #ScikitLearn #GitHub #Internship                       
