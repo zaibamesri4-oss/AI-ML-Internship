@@ -1,4 +1,27 @@
-# Day 11 – Student Score Prediction App
+# Day 12 – Project Improvement
+
+## 📌 Task
+Improved the Student Score Prediction project by organizing the code and enhancing its readability.
+
+## 🚀 What I Did
+- Organized the project into clear sections.
+- Added meaningful comments to explain the code.
+- Improved code readability and formatting.
+- Enhanced the prediction output for a better user experience.
+- Reviewed and optimized the project structure.
+
+## 🛠️ Technologies Used
+- Python
+- Pandas
+- Scikit-learn
+
+## 📊 Output
+Successfully improved the Student Score Prediction project with a cleaner structure and better code organization.
+
+## 🎯 Learning Outcome
+Learned the importance of writing clean, organized, and maintainable code while improving the overall quality of a machine learning project.
+
+✅ Day 12 Task Completed Successfully.# Day 11 – Student Score Prediction App
 
 ## 📌 Task
 Developed a simple prediction application using a Linear Regression model.
