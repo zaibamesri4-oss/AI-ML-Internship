@@ -95,4 +95,23 @@ Topics Covered:
 
 Built and trained a Linear Regression model using a sample dataset, gaining practical experience in machine learning model development.
 
-#Codomax #AIML #Python #MachineLearning #ScikitLearn #GitHub #Internship                       
+#Codomax #AIML #Python #MachineLearning #ScikitLearn #GitHub #Internship                      # Day 9 – Prediction using Linear Regression
+
+## 📌 Task
+Built a Linear Regression model to predict student scores based on study hours.
+
+## 🚀 What I Did
+- Created a dataset for student study hours and scores.
+- Trained a Linear Regression model using Scikit-learn.
+- Predicted student scores based on input study hours.
+- Successfully generated prediction results.
+
+## 🛠️ Technologies Used
+- Python
+- Pandas
+- Scikit-learn
+
+## 📊 Output
+Successfully predicted student scores using the trained Linear Regression model.
+
+✅ Day 9 Task Completed Successfully.                  
