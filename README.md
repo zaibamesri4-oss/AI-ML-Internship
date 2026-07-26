@@ -164,4 +164,26 @@ Successfully evaluated the Linear Regression model and measured its performance 
 ## 🎯 Learning Outcome
 Learned how to assess the accuracy and effectiveness of a machine learning model using standard evaluation metrics.
 
-✅ Day 10 Task Completed Successfully.                    
+✅ Day 10 Task Completed Successfully.  # Day 11 – Student Score Prediction App
+
+## 📌 Task
+Developed a simple prediction application using a Linear Regression model.
+
+## 🚀 What I Did
+- Trained a Linear Regression model using student study hours and scores.
+- Accepted user input for study hours.
+- Predicted the student's score based on the entered study hours.
+- Displayed the prediction result in a user-friendly format.
+
+## 🛠️ Technologies Used
+- Python
+- Pandas
+- Scikit-learn
+
+## 📊 Output
+Successfully created a prediction app that takes study hours as input and predicts the corresponding student score.
+
+## 🎯 Learning Outcome
+Learned how to build an interactive machine learning application by combining user input with a trained Linear Regression model.
+
+✅ Day 11 Task Completed Successfully.                  
