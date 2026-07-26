@@ -1,4 +1,23 @@
-        ## AI & ML Internship Project
+# Day 9 – Prediction using Linear Regression
+
+## 📌 Task
+Built a Linear Regression model to predict student scores based on study hours.
+
+## 🚀 What I Did
+- Created a dataset for student study hours and scores.
+- Trained a Linear Regression model using Scikit-learn.
+- Predicted student scores based on input study hours.
+- Successfully generated prediction results.
+
+## 🛠️ Technologies Used
+- Python
+- Pandas
+- Scikit-learn
+
+## 📊 Output
+Successfully predicted student scores using the trained Linear Regression model.
+
+✅ Day 9 Task Completed Successfully.        ## AI & ML Internship Project
 
 This repository contains my daily learning progress from the Codomax Digital Solutions AI & Machine Learning Internship.
 
