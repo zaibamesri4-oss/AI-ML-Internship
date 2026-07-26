@@ -1,4 +1,26 @@
-        ## AI & ML Internship Project
+# Day 11 – Student Score Prediction App
+
+## 📌 Task
+Developed a simple prediction application using a Linear Regression model.
+
+## 🚀 What I Did
+- Trained a Linear Regression model using student study hours and scores.
+- Accepted user input for study hours.
+- Predicted the student's score based on the entered study hours.
+- Displayed the prediction result in a user-friendly format.
+
+## 🛠️ Technologies Used
+- Python
+- Pandas
+- Scikit-learn
+
+## 📊 Output
+Successfully created a prediction app that takes study hours as input and predicts the corresponding student score.
+
+## 🎯 Learning Outcome
+Learned how to build an interactive machine learning application by combining user input with a trained Linear Regression model.
+
+✅ Day 11 Task Completed Successfully.        ## AI & ML Internship Project
 
 This repository contains my daily learning progress from the Codomax Digital Solutions AI & Machine Learning Internship.
 
