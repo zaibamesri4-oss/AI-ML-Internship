@@ -126,7 +126,32 @@ Evaluated the performance of a Linear Regression model using different evaluatio
   - Mean Absolute Error (MAE)
   - Mean Squared Error (MSE)
   - R² Score
+- Analyzed the model's prediction accuracy.# Day 10 – Model Evaluation
+
+## 📌 Task
+Evaluated the performance of a Linear Regression model using different evaluation metrics.
+
+## 🚀 What I Did
+- Trained a Linear Regression model.
+- Predicted scores on the test dataset.
+- Evaluated the model using:
+  - Mean Absolute Error (MAE)
+  - Mean Squared Error (MSE)
+  - R² Score
 - Analyzed the model's prediction accuracy.
+
+## 🛠️ Technologies Used
+- Python
+- Pandas
+- Scikit-learn
+
+## 📊 Output
+Successfully evaluated the Linear Regression model and measured its performance using MAE, MSE, and R² Score.
+
+## 🎯 Learning Outcome
+Learned how to assess the accuracy and effectiveness of a machine learning model using standard evaluation metrics.
+
+✅ Day 10 Task Completed Successfully.
 
 ## 🛠️ Technologies Used
 - Python
